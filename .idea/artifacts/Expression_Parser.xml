@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Expression Parser">
+    <output-path>$PROJECT_DIR$/out/artifacts/Expression_Parser</output-path>
+    <root id="archive" name="Expression Parser.jar">
+      <element id="module-output" name="Expression Parser" />
+    </root>
+  </artifact>
+</component>
