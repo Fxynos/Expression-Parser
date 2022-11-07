@@ -14,9 +14,11 @@ double result = func.get(vars);
 otherwise you must put all used variables.
 ---
 ###Expressions
+
 Next operators can be used in expressions:
 - "+", "-", "*", "/", "^"
 - log(), cos(), sin(), sqr(), sqrt()
 ---
 ##Download
+
 <a href="https://drive.google.com/file/d/1y6X7nb2qhNKHEB0zPQUjaiaHmmEIQ59o/view?usp=sharing">Download jar library</a>
