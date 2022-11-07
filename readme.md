@@ -12,13 +12,9 @@ double result = func.get(vars);
 <code>MalformedExpressionException</code> occurs if expression couldn't be parsed. For some malformed expression behaviour is undefined, it may lead to runtime exceptions.
 - <code>Operation</code> class allow to get value of expression for certain values of used in it variables via method <code>double get(Map<String, Double> vars)</code>. You can pass null, if there's no variables in expression, 
 otherwise you must put all used variables.
----
-###Expressions
-
+### Expressions
 Next operators can be used in expressions:
 - "+", "-", "*", "/", "^"
 - log(), cos(), sin(), sqr(), sqrt()
----
-##Download
-
+## Download
 <a href="https://drive.google.com/file/d/1y6X7nb2qhNKHEB0zPQUjaiaHmmEIQ59o/view?usp=sharing">Download jar library</a>
